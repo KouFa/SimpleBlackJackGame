@@ -39,7 +39,7 @@ class Deck():
         return single_card
 
 
-# testing the deck
+# TESTING THE DECK
 #test_deck = Deck()
 # test_deck.shuffle()
 # print(test_deck)
@@ -65,7 +65,7 @@ class Hand():
             self.aces -= 1
 
 
-# testing again
+# TESTING AGAIN
 #test_deck = Deck()
 # test_deck.shuffle()
 
